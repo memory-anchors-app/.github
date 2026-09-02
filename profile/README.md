@@ -9,10 +9,11 @@ We build tools that make learning more effective.
 A central hub for your spaced-repetition decks, memory anchors, and study progress — all in one place.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/memory-anchors-app/.github/main/Anchor-Hub-App-Store-1242x2688.png" alt="Anchor Hub — Home" width="200" />
-  <img src="https://raw.githubusercontent.com/memory-anchors-app/.github/main/ChatGPT%20Image%20Jul%201%2C%202026%20at%2003_07_57%20PM.png" alt="Anchor Hub" width="200" />
-  <img src="https://raw.githubusercontent.com/memory-anchors-app/.github/main/appstore_edit_cards_with_ai_1242x2688.png" alt="Anchor Hub — Edit cards with AI" width="200" />
-  <img src="https://raw.githubusercontent.com/memory-anchors-app/.github/main/appstore_learn_with_every_swipe_1242x2688.png" alt="Anchor Hub — Learn with every swipe" width="200" />
+  <img src="https://raw.githubusercontent.com/memory-anchors-app/.github/main/Anchor-Hub-App-Store-1242x2688.png" alt="Anchor Hub — Home" width="180" />
+  <img src="https://raw.githubusercontent.com/memory-anchors-app/.github/main/ChatGPT%20Image%20Jul%201%2C%202026%20at%2003_07_57%20PM.png" alt="Anchor Hub" width="180" />
+  <img src="https://raw.githubusercontent.com/memory-anchors-app/.github/main/ChatGPT%20Image%20Jul%201%2C%202026%20at%2003_28_45%20PM.png" alt="Anchor Hub in action" width="180" />
+  <img src="https://raw.githubusercontent.com/memory-anchors-app/.github/main/appstore_edit_cards_with_ai_1242x2688.png" alt="Anchor Hub — Edit cards with AI" width="180" />
+  <img src="https://raw.githubusercontent.com/memory-anchors-app/.github/main/appstore_learn_with_every_swipe_1242x2688.png" alt="Anchor Hub — Learn with every swipe" width="180" />
 </p>
 
 ## ✨ Features
