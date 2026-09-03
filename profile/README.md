@@ -1,21 +1,16 @@
 # Anchor Hub
 
-## 🧠 A Different Way to Think About Flashcards
+<p align="center">
+  <strong>A flashcard app for learning languages, music, and anything worth remembering.</strong>
+</p>
 
-Anchor Hub is built around two concepts:
+<p align="center">
+  Anchor Hub is a cross-platform learning app for <strong>iOS and Android</strong> that combines spaced repetition with meaningful memory anchors.
+</p>
 
-**Target** — what you want to learn.
-
-**Anchor** — what helps you recall it.
-
-An Anchor can be a piece of text, an equation, a code example, an image, or even a precise moment in a YouTube video.
-
-The Anchor is not the thing being memorized.
-
-**The Anchor is the path back to the Target.**
-
----
-
+<p align="center">
+  Learn something new. Find it in the real world. Connect it to something meaningful. Remember it.
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/memory-anchors-app/.github/main/Anchor-Hub-App-Store-1242x2688.png" alt="Anchor Hub — Home" width="180" />
@@ -25,29 +20,109 @@ The Anchor is not the thing being memorized.
   <img src="https://raw.githubusercontent.com/memory-anchors-app/.github/main/appstore_learn_with_every_swipe_1242x2688.png" alt="Anchor Hub — Learning" width="180" />
 </p>
 
-<p align="center">
-  <strong>*Learn concepts. Build connections. Remember longer*.</strong>
-</p>
+---
 
-<p align="center">
-  A cross-platform learning application for <strong>iOS and Android</strong> built around spaced repetition and meaningful memory anchors.
-</p>
+## 🧠 Learn Through Connections
+
+Traditional flashcards are built around:
+
+**Question → Answer → Repeat**
+
+Anchor Hub adds another layer.
+
+**Target** — what you want to learn.
+
+**Anchor** — something that helps you remember it.
+
+An Anchor can be a sentence, an image, a piece of code, an equation, or a specific moment in a YouTube video.
+
+The Anchor is not the thing being memorized.
+
+**It is the path back to the Target.**
+
+---
+
+## 🌍 Learn Languages in the Real World
+
+Learning a language is more than memorizing translations.
+
+You learn a word, then you start noticing it everywhere.
+
+Anchor Hub is built around that moment.
+
+Imagine you're learning Chinese:
+
+**Target:** `坚持`
+*jiānchí — to persist*
+
+You want to remember it.
+
+So you go to YouTube and search for `坚持`.
+
+Maybe you find the word in a song.
+
+Maybe it's in a movie scene.
+
+Maybe someone says it during an interview.
+
+You save that moment as an Anchor.
+
+Now `坚持` isn't just:
+
+> “to persist”
+
+It is connected to **a song, a voice, a melody, a scene, and a moment you discovered yourself.**
+
+The next time you see the flashcard, those connections help bring the word back.
+
+**The word becomes yours.**
+
+---
+
+## 🎵 Find Words in Music
+
+Music can make language memorable.
+
+A word you encounter in a song can be easier to remember because it is connected to something emotional, familiar, and repeatable.
+
+With Anchor Hub, a language learner can:
+
+1. Learn a new word.
+2. Search for it on YouTube.
+3. Find a song that contains the word.
+4. Save the exact moment.
+5. Review the word later.
+6. Recall the word through the song.
+
+The same word can become connected to different songs, artists, videos, and personal experiences.
+
+Instead of memorizing a word because an app told you to:
+
+**you discover where the word lives in the real world.**
 
 ---
 
 ## ⚓ Targets & Anchors
 
-Learning a concept is easier when it has something meaningful attached to it.
+A single Target can have multiple Anchors.
 
-For example, a programming concept might have:
+For example:
 
-* a **Target** — `Dependency Injection`
-* a **Code Anchor** — a real implementation
-* a **Text Anchor** — a simple explanation
-* an **Image Anchor** — a visual diagram
-* a **YouTube Anchor** — a specific explanation from a video
+**Target:** `坚持` — *to persist*
 
-Different types of information create different retrieval paths back to the same Target.
+**Anchors:**
+
+* 📝 A sentence using the word
+* 🖼️ An image that represents the idea
+* ▶️ A moment in a YouTube video
+* 🎵 A song containing the word
+* 💭 A personal association
+
+Each Anchor creates another retrieval path to the same Target.
+
+The more meaningful the connection, the easier it can become to bring the Target back.
+
+**Target → Anchor → Recall**
 
 ---
 
@@ -55,65 +130,107 @@ Different types of information create different retrieval paths back to the same
 
 Anchor Hub uses **spaced repetition** to schedule reviews based on memory strength.
 
-Instead of repeatedly reviewing everything, the system progressively increases the interval between successful recalls.
+Instead of reviewing every card at the same frequency, successful recalls progressively increase the interval before the next review.
 
-The goal is simple:
+The goal isn't to spend more time reviewing.
 
-**Review at the right moment — not constantly.**
+**The goal is to remember more with less repetition.**
 
 ### The Ebbinghaus Forgetting Curve
 
-Human memory tends to weaken over time without reinforcement.
+Without reinforcement, memories tend to become harder to recall over time.
 
-Spaced repetition works with this forgetting curve by bringing information back for retrieval before it is lost, then extending the interval as the memory becomes stronger.
+Spaced repetition brings information back at appropriate intervals, strengthening the memory through active retrieval.
 
-Anchor Hub combines this scheduling approach with contextual Anchors to make each review more meaningful.
+Anchor Hub combines this scheduling system with contextual Anchors.
+
+So when a word comes back for review, you don't only see a definition.
+
+You can return to the **context that made the word memorable in the first place.**
+
+**Review at the right moment. Recall from context. Remember longer.**
+
+---
+
+## 🧩 Anchor Types
+
+Anchor Hub supports different ways of connecting a Target to meaningful information:
+
+| Anchor         | Use                                           |
+| -------------- | --------------------------------------------- |
+| 📝 **Text**    | Sentences, explanations, examples, mnemonics  |
+| 🖼️ **Image**  | Visual associations and context               |
+| ▶️ **YouTube** | Specific moments from videos and songs        |
+| ∑ **Equation** | Formulas and mathematical relationships       |
+| `</>` **Code** | Programming concepts and real implementations |
+
+The same system can be used for languages, music, programming, mathematics, and other subjects.
+
+---
+
+## 🤖 AI-Assisted Learning
+
+AI helps turn things you want to learn into useful learning material.
+
+It can help with:
+
+* generating flashcards
+* creating example sentences
+* explaining unfamiliar concepts
+* creating learning material
+* adapting content to your level
+* exploring new topics
+
+AI helps create and understand the material.
+
+**Spaced repetition decides when to review it. Anchors help make it memorable.**
 
 ---
 
 ## 🛠 Technology
 
-Anchor Hub is a native cross-platform application for:
+Anchor Hub is a cross-platform application for:
 
 **iOS + Android**
 
 The project combines:
 
+* **SwiftUI** for iOS
+* **Flutter** for Android
 * **Spaced-repetition algorithms**
-* **Memory and retrieval concepts**
-* **Rich multimedia Anchors**
-* **AI-assisted learning**
 * **Local-first data architecture**
-* **Native mobile interfaces**
-* **YouTube video integration**
+* **AI-assisted learning**
+* **Multimedia Anchors**
+* **YouTube integration**
 * **Mathematical equation rendering**
 * **Code rendering**
-* **Fast, gesture-driven review**
+* **Gesture-driven flashcard review**
 
----
-
-## ⚡ Anchor Types
-
-| Anchor         | Use                                           |
-| -------------- | --------------------------------------------- |
-| 📝 **Text**    | Examples, explanations, sentences, mnemonics  |
-| ∑ **Equation** | Formulas and mathematical relationships       |
-| `</>` **Code** | Programming concepts and real implementations |
-| 🖼️ **Image**  | Visual associations and context               |
-| ▶️ **YouTube** | Specific moments from videos                  |
+The platform split was intentional: native iOS development provides a strong foundation for the Apple ecosystem, while Flutter enables efficient expansion to Android.
 
 ---
 
 ## 🎯 Our Goal
 
-Most learning applications focus on **storing information**.
+Learning shouldn't be about endlessly reviewing information inside an app.
 
-We want to focus on **retrieving it**.
+The best learning happens when something you've studied starts appearing **in the real world**.
 
-Anchor Hub combines spaced repetition with meaningful associations so that learning isn't just about seeing information again — it's about being able to **reconstruct the Target from memory**.
+A word appears in a song.
 
-**Learn the Target. Build an Anchor. Strengthen the memory.**
+A phrase appears in a conversation.
 
+A concept appears in a video.
+
+A programming technique appears in real code.
+
+You recognize it because you've built a connection to it before.
+
+Anchor Hub is built to create those connections and bring them back when you need them.
+
+**Learn something. Find it in the world. Make it yours.**
+
+---
 
 ## 🔗 Links
 
